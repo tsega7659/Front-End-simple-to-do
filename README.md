@@ -2,7 +2,7 @@
 
 A simple task manager frontend built with React, Vite, and Tailwind CSS.
 
-## 🔧 Features
+## Features
 
 - View a list of tasks
    Add a new task
